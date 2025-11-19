@@ -2,10 +2,10 @@
 Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.
 It showcases my work, projects, skills, and journey as a developer passionate about **AI, ML, and Web Technologies**.
 
-🌐 **Website:** [[kunj-Portfolio]](https://santosh.netlify.app/)
+🌐 **Website:** [[Santosh-Portfolio]](https://santosh.netlify.app/)
 
 🖼️ **Screenshots**
-<img width="1902" height="994" alt="Screenshot 2025-11-03 232447" src="https://github.com/user-attachments/assets/6f78ceb0-363c-41e8-9eb9-a26fa814e8ac" />
+<img width="1902" height="994" alt="Screenshot 2025-11-03 232447" src="https://github.com/user-attachments/assets363c-41e8-9eb9-a26fa814e8ac" />
 <img width="1894" height="992" alt="image" src="https://github.com/user-attachments/santosh8" />
 <img width="1903" height="1044" alt="Screenshot 2025-11-04 153204" src="https://github.com/user-attachments/asantosh" />
 ---
@@ -43,7 +43,7 @@ To run this project locally:
 git clone https://github.com/santosh.git
 
 # 2️⃣ Navigate to project directory
-cd kunjdesai-portfolio
+cd santosh-portfolio
 
 # 3️⃣ Install dependencies
 npm install
@@ -60,8 +60,8 @@ Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
 
 If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
-* 📧 **Email:** [kunjd2803@gmail.com](mailto:santosh@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/kunj-desai-07717b293](https://www.linkedin.com/santosh/)
+* 📧 **Email:** [santosh@gmail.com](mailto:santosh@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/santosh7717b293](https://www.linkedin.com/santosh/)
 
 ---
 
