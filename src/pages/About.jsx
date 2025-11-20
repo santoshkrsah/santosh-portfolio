@@ -57,8 +57,8 @@ const AboutMe = () => {
           }}
         >
           Hi, I’m <strong>Santosh Kumar</strong> — an aspiring{" "}
-          <strong>Artificial Intelligence Engineer</strong> and{" "}
-          <strong>Machine Learning enthusiast</strong> who loves turning ideas
+          <strong>Full Stack QA Engineer</strong> and{" "}
+          <strong>SDET Profectional</strong> who loves turning ideas
           into intelligent systems. I’m deeply fascinated by how data and
           algorithms can shape the future of healthcare, automation, and
           creativity in technology.
