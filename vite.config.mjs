@@ -1,11 +1,8 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
+// https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/',   // ← YEH CHANGE KAR DE './' se '/' kar de
-  build: {
-    outDir: 'dist',
-    assetsDir: 'assets'
-  }
+  base: './', // 👈 this fixes the blank page on deployment
 })
